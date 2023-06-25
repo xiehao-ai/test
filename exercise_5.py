@@ -7,3 +7,8 @@ def square_sum(num):
 
 print(square_sum(4))
 
+
+# 20230626 add
+
+def b():
+    return True
