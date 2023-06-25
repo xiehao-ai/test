@@ -39,19 +39,21 @@ import numpy as np
 #     return steps(n-1) + steps(n-2)
 # print(steps(4))
 
-def aaa(b):
-    a = False
+# def aaa(b):
+#     a = False
+#
+#     if b > 1:
+#         return b, b
+#
+#     a = True
+#     return b, a
 
-    if b > 1:
-        return b, b
 
-    a = True
-    return b, a
-
-c, d = aaa(-2)
-print(c, d)
 
 def a():
     return bool
 
+# 20230626 add
 
+def b():
+    return True
