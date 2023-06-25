@@ -57,3 +57,9 @@ def a():
 
 def b():
     return True
+
+
+# 20230626 add
+
+def c():
+    return True
